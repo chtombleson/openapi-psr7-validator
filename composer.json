@@ -48,7 +48,6 @@
     "config": {
         "sort-packages": true
     },
-    "prefer-stable": true,
     "repositories": [
         {
             "type": "vcs",
